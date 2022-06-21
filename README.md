@@ -1,2 +1,4 @@
 # ProjetoJava
- etapa2provaprogramacao
+ Segunda etapa prova residência emprel.
+ 
+ Deixando arquivos prontos para envio.
